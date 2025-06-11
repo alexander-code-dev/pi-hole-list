@@ -1,2 +1,3 @@
 an.yandex.ru^
 dr.yandex.net^
+yastatic.net^
